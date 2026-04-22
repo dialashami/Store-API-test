@@ -1,7 +1,7 @@
 
 # Store API Test
 
-Automated REST API tests for the [Fake Store API](https://fakestoreapi.com), written in C# using NUnit. Built as part of a QA internship assignment covering both manual and automated testing.
+Automated REST API tests for the [Fake Store API](https://fakestoreapi.com/carts/5), written in C# using NUnit. Built as part of a QA internship assignment covering both manual and automated testing.
 
 ---
 
